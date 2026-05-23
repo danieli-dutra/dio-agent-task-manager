@@ -226,7 +226,7 @@ Durante o desenvolvimento deste projeto, foi possível praticar:
 
 ## 👩‍💻 Desenvolvido por
 
-**Danieli Dutra**
+**Danieli Dutra Braga**
 
 Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Desenvolvimento Full Stack**, **UX/UI** e **Inteligência Artificial aplicada a produtos digitais**.
 
