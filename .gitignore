@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+.venv/
+env/
+lab_dio/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# ADK
+.adk/
+session.db
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
